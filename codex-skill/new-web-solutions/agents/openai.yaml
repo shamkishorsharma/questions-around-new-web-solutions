@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Web Solutions"
+  short_description: "AppsFlyer web attribution customer answers"
+  default_prompt: "Use $new-web-solutions to answer an AppsFlyer Web Attribution customer question with customer-safe links."
